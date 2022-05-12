@@ -9,5 +9,5 @@ Criei arquivo historia-dos-pcs.md
 ##
     git add *
     git commit -m "historia dos pcs"
-    eval 
+    ...
     git push origin main    
