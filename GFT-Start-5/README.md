@@ -10,4 +10,7 @@ Criei arquivo historia-dos-pcs.md
     git add *
     git commit -m "historia dos pcs"
     ...
-    git push origin main    
+    git push origin main
+#
+## Relatório 20/05/2022
+### Luz da residência foi cortada para reparos, então resolvi finalizar a primeira folha rascunho, organizando-as aqui.
