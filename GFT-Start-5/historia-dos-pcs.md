@@ -27,3 +27,35 @@
 - 2001 Windows XP.
 - ...
 ## ***Resumo História dos computadores (SOFTWARES)***
+- 1949 Assembly, 1° linguagem de programação; linguagem de máquina.
+- DEC.50 Cobol, Fortran, Lisp
+- DEC.60-70 C, Prolog, ML (Machine Learning)
+- DEC. 90 Linguagem de mais alto nível: pyton, c#, ruby, java, "Ideia do JavaScript"
+- 2000 em diante, TS "TypeScript", GO e outros multiparadigmas
+##  Propriedades da Linguagen: 
+- **Linguagem de Alto nível > Compilador > tradução > baixo nível (Assembly)**
+-  Tradução/Compilação:
+   -  Gera programa objeto
+   -  Execulção do programa objeto para assembly
+   -  Java, C++ ...
+- Interpretação
+  - maior flexibilidade
+  - mais fácio de progrmar
+  - mais lenta
+  - Ruby, Python, JavaScript ...
+-  Transpilação
+   -  É quase igual o conceito de compilação, mas ele "joga linguagem de mais alto nível para a próxima de mais baixo nível", como TypeScript é transpilado para JavaScript
+## Paradigma
+ - Regra para resolução de um problema
+   - Poo - Programação Orientada a Objeto
+     - Análogo ao mundo real
+     - "podemos abstrair o objeto a uma classe"
+     - Objeto tem: Característica, atributo, modelo...
+   - Procedural - ideia de sequêncial
+   - Funcional - Uso de funções
+   - Estruturado - Estrutura de dados (Pilha, Fila, Ponteiros)
+     - Sequêncial
+     - Discisão
+     - Iteração
+   - Computação Distribuidas - modulos independentes
+   - Lógico
