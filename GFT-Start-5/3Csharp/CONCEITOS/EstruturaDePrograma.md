@@ -1,6 +1,7 @@
-## Estrutura de programa
+# Estrutura de programa
+
 - Temos o programa
-- namespace contido no programa
+  - namespace contido no programa
   - Pode conter tipos, ex:
     - classes
     - interfaces
@@ -9,7 +10,7 @@
     - métodos
     - propriedades
     - eventos
-  ###### "Os programas declaram **tipos**, que contêm **membros** e poder ser organizados em **namespaces**."
+  - "Os programas declaram **tipos**, que contêm **membros** e poder ser organizados em **namespaces**."
 - assemblies
   - quando compilado, é fisicamnte empacotado em assemblies.
     - .exe para aplicativos
