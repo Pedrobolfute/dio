@@ -1,0 +1,13 @@
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\demo\bin\Debug\netcoreapp3.1\demo.exe
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\demo\bin\Debug\netcoreapp3.1\demo.deps.json
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\demo\bin\Debug\netcoreapp3.1\demo.dll
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\demo\bin\Debug\netcoreapp3.1\demo.pdb
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\demo\obj\Debug\netcoreapp3.1\demo.csprojAssemblyReference.cache
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\demo\obj\Debug\netcoreapp3.1\demo.csproj.CoreCompileInputs.cache
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\demo\obj\Debug\netcoreapp3.1\demo.dll
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\demo\obj\Debug\netcoreapp3.1\demo.pdb
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\demo\obj\Debug\netcoreapp3.1\demo.genruntimeconfig.cache
