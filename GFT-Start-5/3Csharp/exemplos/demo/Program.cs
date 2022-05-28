@@ -1,51 +1,73 @@
-﻿// Conceituando coisas aqui, com o objetivo de meus estudos:
-/*Objetivo aqui é mostrar os ValueTypes, as referências de valor*/
-using System;
-using static System.Console;        // Assim não presiso de ficar usando o Console.WriteLine
+﻿/*Objetivo aqui é mostrar os Value Types, os Reference Types e praticar a sintaxe e o debug*/
 
+using System;
+using static System.Console;
+    // Assim não presiso de ficar usando o Console.WriteLine
 
 namespace demo  
 {
-
-    /* Uma classe pública que mostra  */
     public class Program
-    {   
-        static void Adicionar20(int a)      /*Isso é um Método (ele é um membro que fica contído no namespace.
-                                             e na class.?.), e ajuda na class.
-                                            "Ele não presisa ser puplico porque está na mesma classe"
-                                            */
+    {
+
+
+
+
+
+
+    /*Isso (static void ...) é um Método (função), ele está contido em uma classe pública.
+      "Ele não presisa ser puplico porque está na mesma classe"*/
+        static void Adicionar20(int a)
         {
-            a = a + 20;     //no debug a variável "a" só vai ter o 20 somente *dentro desse método*
+            //no debug a variável "a" só vai ter o 20, somente, *dentro desse método*
+            a = a + 20;
         }
+
+
+        static void TesteAdicionar20()
+        {
+            int a = 2;
+
+            /*Na chamada desse método/função aqui, mando adicionar 20 a minha variável "a" com 
+              o "intuito de printar 20 + 2 = '22' no final".
+              Mas a principal característica de um ValueType é que o valor de uma var é atribuido
+              para outra var, ele é somente "copiado" e não é passado o valor da referência na memória.
+              Essa cópia só existe dentro do método Adicionar20(int a).
+            */
+            Adicionar20(a);
+            WriteLine($"O valor da variável por valor é {a}");
+        }
+
+
+
+
+
+
+        //Geito certo que retorna o conteúdo e a referência da variável.
+        //Adicionando o int e o return
+        static int AdicionarVinte(int a)
+        {
+            return a + 20;
+        }
+
+
+        static void TesteAdicionarVinte()
+        {
+            int a = 2;
+            a = AdicionarVinte(a);
+            WriteLine($"O valor da variável por referência é {a}");
+        }
+
+
+
 
 
 
         public static void Main(string[] args)
         {
-            int a = 2;
-            Adicionar20(a); /*Na chamada dessa ?função? aqui, mando adicionar 20 a minha variável "a" com 
-                              o "intuito de printar 20 + 2= '22' no final".
-                              Mas a ***a principal característica de um ValueType é que o valor de uma var é atribuido
-                              para outra var, ele é somente "copiado" e não é passado o valor.
-                              e essa cópia só existe dentro da outra var da ?função? acima.***
-                            */
-            WriteLine($"O valor da variável é {a}");
+           //Teste de chamar o método/função 
+           TesteAdicionarVinte();
+           TesteAdicionar20();
         }
     }
 }
 
-
-/*Pra concertar isso devemos dar uma meia volta nesse problema, mudando o meu método:
-
-static int Adicionar20(int a)   definindo o método como sendo um inteiro e teremos uma var inteira tbm
-{
-    return a + 20;                              retornar a variável + 20 la pra baixo e printa. 22
-}
-
-public static void Main()
-{
-    int a = 2;
-    a = Adicionar20(a);                         1) chama o método acima e o execulta {...}    2) valor retornado é guardada aqui na variável "a" e, então WriteLine
-    WriteLine($"O valor da variável é{a}");     printa...
-}
-*/
