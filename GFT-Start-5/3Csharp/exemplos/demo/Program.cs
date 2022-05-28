@@ -62,12 +62,27 @@ namespace demo
 
 
 
+        static void TrocarNome(Pessoa p1, string nomeNovo)
+        {
+            p1.Nome = nomeNovo;
+        }
         public static void Main(string[] args)
         {
            //Teste de chamar o método/função 
-           TesteAdicionarVinte();
-           TesteAdicionar20();
+           //TesteAdicionarVinte();
+           //TesteAdicionar20();
+           Pessoa p1 = new Pessoa(); //Iniciado essa classe/instancia
+           p1.Nome = "Pedro";   // atribuindo um nome à pessoa
+           p1.Idade = 23;     // ...
+           p1.Documento = "4321"; // ...
+           //TrocarNome(p1, "Pedrobolfute");
+           //WriteLine($"O novo nome é : {p1.Nome}");
+
         }
     }
 }
 
+// Rápida revisão
+// valuetype vao pra stack
+// referencetype heap
+//codigo das demos originais .com/ricardovicentini/Demos...
