@@ -1,0 +1,15 @@
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioEsfera2\bin\Debug\net6.0\desafioEsfera2.exe
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioEsfera2\bin\Debug\net6.0\desafioEsfera2.deps.json
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioEsfera2\bin\Debug\net6.0\desafioEsfera2.runtimeconfig.json
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioEsfera2\bin\Debug\net6.0\desafioEsfera2.dll
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioEsfera2\bin\Debug\net6.0\desafioEsfera2.pdb
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioEsfera2\obj\Debug\net6.0\desafioEsfera2.csproj.AssemblyReference.cache
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioEsfera2\obj\Debug\net6.0\desafioEsfera2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioEsfera2\obj\Debug\net6.0\desafioEsfera2.AssemblyInfoInputs.cache
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioEsfera2\obj\Debug\net6.0\desafioEsfera2.AssemblyInfo.cs
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioEsfera2\obj\Debug\net6.0\desafioEsfera2.csproj.CoreCompileInputs.cache
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioEsfera2\obj\Debug\net6.0\desafioEsfera2.dll
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioEsfera2\obj\Debug\net6.0\refint\desafioEsfera2.dll
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioEsfera2\obj\Debug\net6.0\desafioEsfera2.pdb
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioEsfera2\obj\Debug\net6.0\desafioEsfera2.genruntimeconfig.cache
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioEsfera2\obj\Debug\net6.0\ref\desafioEsfera2.dll
