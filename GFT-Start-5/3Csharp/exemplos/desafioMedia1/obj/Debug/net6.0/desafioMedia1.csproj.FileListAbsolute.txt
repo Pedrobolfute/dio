@@ -1,0 +1,15 @@
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioMedia1\bin\Debug\net6.0\desafioMedia1.exe
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioMedia1\bin\Debug\net6.0\desafioMedia1.deps.json
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioMedia1\bin\Debug\net6.0\desafioMedia1.runtimeconfig.json
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioMedia1\bin\Debug\net6.0\desafioMedia1.dll
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioMedia1\bin\Debug\net6.0\desafioMedia1.pdb
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioMedia1\obj\Debug\net6.0\desafioMedia1.csproj.AssemblyReference.cache
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioMedia1\obj\Debug\net6.0\desafioMedia1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioMedia1\obj\Debug\net6.0\desafioMedia1.AssemblyInfoInputs.cache
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioMedia1\obj\Debug\net6.0\desafioMedia1.AssemblyInfo.cs
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioMedia1\obj\Debug\net6.0\desafioMedia1.csproj.CoreCompileInputs.cache
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioMedia1\obj\Debug\net6.0\desafioMedia1.dll
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioMedia1\obj\Debug\net6.0\refint\desafioMedia1.dll
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioMedia1\obj\Debug\net6.0\desafioMedia1.pdb
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioMedia1\obj\Debug\net6.0\desafioMedia1.genruntimeconfig.cache
+C:\workspace\dioGit\GFT-Start-5\3Csharp\exemplos\desafioMedia1\obj\Debug\net6.0\ref\desafioMedia1.dll
