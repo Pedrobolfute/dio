@@ -1,0 +1,9 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: rgb(30, 28, 28);
+    color: aliceblue;
+    flex: auto;
+    flex-direction: column;
+}
