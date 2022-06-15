@@ -41,7 +41,8 @@ function escopoLocal(){
 
 escopoLocal()
 
-//
+// compara o tipo da variável
+console.log("Comparando o tipo da variável ==: ")
 var comparacao = 0 == 0;
 console.log(comparacao);
 
@@ -57,4 +58,15 @@ console.log(comparacao3);
 var comparacao4 = 0 == "0";
 console.log(comparacao4);
 
-// ...
+// compara tipo e valor
+console.log("Comparando valor e tipo: ");
+var comparaValor = 0 === 0;
+console.log(comparaValor);
+
+var comparaValor1 = 0 === '0';
+console.log(comparaValor1);
+/* Conclusão:
+    = é atribuição;
+    == é comparação simples (tipo)
+    === é comparação completa (tipo e valor) */
+
