@@ -44,6 +44,7 @@ var objeto = {string: "string", number: 1.85, boolean: true, array: ["array", "a
 //var pedro = objeto.objetoInterno;
 //console.log(pedro)
 
+//outra forma de desestruturação...
 var {string, number} = objeto;
 console.log(string, number);
 
