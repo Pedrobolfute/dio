@@ -27,7 +27,7 @@ function novaTarefa(descricao){
 }
 
 
-
+// TO FIX.
 function alerta(){
     document.body.style.backgroundColor = "rgb(130, 33, 33)";
 }
