@@ -11,7 +11,7 @@ body {
     color: antiquewhite;
 }
 
-.formulario {
+.formularioDiv {
   margin: 15px 0px 15px 12px; 
   align-items: center;
   border: solid;
@@ -20,5 +20,5 @@ body {
 }
 #formulario {
   border: solid;
-  border-color: rgba(32, 11, 255, 0.736);
+  border-color: rgba(0, 253, 55, 0.736);
 }
