@@ -3,7 +3,7 @@
 caminho="/home/pedro/workspace/dio/linux/script1"
 
 
-echo "excluindo pastas em /home/pedro/workspace/dio/linux/script1 ..."
+echo -e "\n-Excluindo pastas em /home/pedro/workspace/dio/linux/script1... \n\n"
 
 rm -r -f $caminho/publico
 
@@ -14,7 +14,7 @@ rm -r -f $caminho/ven
 rm -r -f $caminho/sec
 
 
-echo "excluindo os grupos..."
+echo -e "\n-Excluindo os grupos... \n\n"
 
 groupdel -f GRP_ADM
 
@@ -23,7 +23,7 @@ groupdel -f GRP_VEN
 groupdel -f GRP_SEC
 
 
-echo "excluindo usuários..."
+echo -e "\n-Excluindo usuários... \n\n"
 
 userdel -r -f carlos
 
@@ -46,4 +46,4 @@ userdel -r -f amanda
 userdel -r -f rogerio
 
 
-echo "Prontinho! Todos usuários e grupos criados com o script 'criar.sh' foram removidos."
+echo -e "\n\n-Prontinho! Todos usuários e grupos criados com o script 'criar.sh' foram removidos. \n\n"

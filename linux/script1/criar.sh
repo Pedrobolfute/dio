@@ -3,7 +3,7 @@
 caminho="/home/pedro/workspace/dio/linux/script1"
 
 
-echo "Criando pastas em /home/pedro/workspace/dio/linux/script1 ..."
+echo -e "\n-Criando pastas em /home/pedro/workspace/dio/linux/script1 ... \n\n"
 
 mkdir $caminho/publico
 
@@ -14,7 +14,7 @@ mkdir $caminho/ven
 mkdir $caminho/sec
 
 
-echo "criando os grupos..."
+echo -e "\n-Criando os grupos... \n\n"
 
 groupadd GRP_ADM
 
@@ -23,7 +23,7 @@ groupadd GRP_VEN
 groupadd GRP_SEC
 
 
-echo "criando usuários e adicionando ao seus grupos..."
+echo -e "\n-Criando usuários e adicionando ao seus grupos... \n\n"
 
 useradd carlos -G GRP_ADM -s /bin/bash
 
@@ -46,7 +46,7 @@ useradd amanda -G GRP_SEC -s /bin/bash
 useradd rogerio -G GRP_SEC -s /bin/bash
 
 
-echo "mudando os donos dos diretórios..."
+echo -e "\n-Mudando os donos dos diretórios... \n\n"
 
 chown root:GRP_ADM $caminho/adm
 
@@ -55,7 +55,7 @@ chown root:GRP_VEN $caminho/ven
 chown root:GRP_SEC $caminho/sec
 
 
-echo "mudando permissões..."
+echo -e "\n-Mudando permissões... \n\n"
 
 chmod 777 $caminho/publico
 
@@ -66,4 +66,4 @@ chmod 770 $caminho/ven
 chmod 770 $caminho/sec
 
 
-echo "Prontinho!!!"
+echo -e "\n\n-Prontinho!!!\n"
