@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/operadores_atribuicao/bin/Debug/net6.0/operadores_atribuicao.dll",
+            "program": "${workspaceFolder}/operadores_condicionais/bin/Debug/net6.0/operadores_condicionais.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/operadores_atribuicao",
+            "cwd": "${workspaceFolder}/operadores_condicionais",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

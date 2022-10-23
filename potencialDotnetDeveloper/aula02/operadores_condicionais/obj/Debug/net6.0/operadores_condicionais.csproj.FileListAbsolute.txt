@@ -1,0 +1,15 @@
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_condicionais/obj/Debug/net6.0/operadores_condicionais.csproj.AssemblyReference.cache
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_condicionais/obj/Debug/net6.0/operadores_condicionais.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_condicionais/obj/Debug/net6.0/operadores_condicionais.AssemblyInfoInputs.cache
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_condicionais/obj/Debug/net6.0/operadores_condicionais.AssemblyInfo.cs
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_condicionais/obj/Debug/net6.0/operadores_condicionais.csproj.CoreCompileInputs.cache
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_condicionais/bin/Debug/net6.0/operadores_condicionais
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_condicionais/bin/Debug/net6.0/operadores_condicionais.deps.json
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_condicionais/bin/Debug/net6.0/operadores_condicionais.runtimeconfig.json
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_condicionais/bin/Debug/net6.0/operadores_condicionais.dll
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_condicionais/bin/Debug/net6.0/ref/operadores_condicionais.dll
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_condicionais/bin/Debug/net6.0/operadores_condicionais.pdb
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_condicionais/obj/Debug/net6.0/operadores_condicionais.dll
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_condicionais/obj/Debug/net6.0/ref/operadores_condicionais.dll
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_condicionais/obj/Debug/net6.0/operadores_condicionais.pdb
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_condicionais/obj/Debug/net6.0/operadores_condicionais.genruntimeconfig.cache
