@@ -1,0 +1,15 @@
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula01/sintaxe/bin/Debug/net6.0/sintaxe
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula01/sintaxe/bin/Debug/net6.0/sintaxe.deps.json
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula01/sintaxe/bin/Debug/net6.0/sintaxe.runtimeconfig.json
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula01/sintaxe/bin/Debug/net6.0/sintaxe.dll
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula01/sintaxe/bin/Debug/net6.0/ref/sintaxe.dll
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula01/sintaxe/bin/Debug/net6.0/sintaxe.pdb
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula01/sintaxe/obj/Debug/net6.0/sintaxe.csproj.AssemblyReference.cache
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula01/sintaxe/obj/Debug/net6.0/sintaxe.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula01/sintaxe/obj/Debug/net6.0/sintaxe.AssemblyInfoInputs.cache
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula01/sintaxe/obj/Debug/net6.0/sintaxe.AssemblyInfo.cs
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula01/sintaxe/obj/Debug/net6.0/sintaxe.csproj.CoreCompileInputs.cache
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula01/sintaxe/obj/Debug/net6.0/sintaxe.dll
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula01/sintaxe/obj/Debug/net6.0/ref/sintaxe.dll
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula01/sintaxe/obj/Debug/net6.0/sintaxe.pdb
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula01/sintaxe/obj/Debug/net6.0/sintaxe.genruntimeconfig.cache

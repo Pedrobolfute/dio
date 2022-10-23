@@ -1,6 +1,7 @@
 Aula 01
-
 ./aula01/sintaxe/bin
 ./aula01/sintaxe/obj
 
-
+Aula 02
+./aula02/operadores_atribuicao/obj/*
+./aula02/operadores_atribuicao/bin/*

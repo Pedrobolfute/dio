@@ -1,0 +1,15 @@
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_atribuicao/bin/Debug/net6.0/operadores_atribuicao
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_atribuicao/bin/Debug/net6.0/operadores_atribuicao.deps.json
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_atribuicao/bin/Debug/net6.0/operadores_atribuicao.runtimeconfig.json
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_atribuicao/bin/Debug/net6.0/operadores_atribuicao.dll
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_atribuicao/bin/Debug/net6.0/ref/operadores_atribuicao.dll
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_atribuicao/bin/Debug/net6.0/operadores_atribuicao.pdb
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_atribuicao/obj/Debug/net6.0/operadores_atribuicao.csproj.AssemblyReference.cache
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_atribuicao/obj/Debug/net6.0/operadores_atribuicao.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_atribuicao/obj/Debug/net6.0/operadores_atribuicao.AssemblyInfoInputs.cache
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_atribuicao/obj/Debug/net6.0/operadores_atribuicao.AssemblyInfo.cs
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_atribuicao/obj/Debug/net6.0/operadores_atribuicao.csproj.CoreCompileInputs.cache
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_atribuicao/obj/Debug/net6.0/operadores_atribuicao.dll
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_atribuicao/obj/Debug/net6.0/ref/operadores_atribuicao.dll
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_atribuicao/obj/Debug/net6.0/operadores_atribuicao.pdb
+/home/pedro/workspace/dio/potencialDotnetDeveloper/aula02/operadores_atribuicao/obj/Debug/net6.0/operadores_atribuicao.genruntimeconfig.cache
