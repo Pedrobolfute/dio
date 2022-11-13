@@ -1,4 +1,4 @@
-//Definindo teclas
+{//KEY_CODE
 KEY_DOWN = 40;
 KEY_UP = 38;
 KEY_LEFT = 37;
@@ -47,6 +47,8 @@ KEY_PF6 = 117;
 KEY_PF7 = 118;
 KEY_PF8 = 119;
 REMAP_KEY_T = 5019;
+}
+
 
 var currentNumberWrapper = document.getElementById("currentNumber");
 var currentNumber = 0;
@@ -68,45 +70,31 @@ function decrement(){
 }
 
 function tarar(){
-    currentNumber = currentNumber * 0;
+    currentNumber = 0;
     currentNumberWrapper.innerHTML = currentNumber;
-    document.body.style.backgroundColor = "rgb(32, 31, 31)";
+    document.body.style.backgroundColor = "rgb(32, 27, 27)";
 }
 
-function checkEventObj ( _event_ ){
-    if ( window.event )
-        return window.event;
-    else
-        return _event_;
+function checkEventObj( _event_ ){
+        if (window.event)
+            return window.event;
+        else
+            return _event_;    
 }
 
-function applyKey (_event_){
+function applyKey(_event_){
     var winObj = checkEventObj(_event_);
     var intKeyCode = winObj.keyCode;
-    var intAltKey = winObj.altKey;
-    var intCtrlKey = winObj.ctrlKey;
         
-    if ( intKeyCode == KEY_RIGHT || intKeyCode == KEY_UP ){
+    if (intKeyCode == KEY_RIGHT || intKeyCode == KEY_UP){
         increment();
-        winObj.keyCode = intKeyCode = REMAP_KEY_T;
-        winObj.returnValue = false;
-        return false;
     }
-    else if ( intKeyCode == KEY_LEFT || intKeyCode == KEY_DOWN ){      
+    else if (intKeyCode == KEY_LEFT || intKeyCode == KEY_DOWN){      
         decrement();
-        winObj.keyCode = intKeyCode = REMAP_KEY_T;
-        winObj.returnValue = false;
-        return false;
     }
-    else{
-    if(intKeyCode == KEY_DEL || KEY_ESC){
+    else if(intKeyCode == KEY_DEL || intKeyCode == KEY_ESC){
         tarar();
-        winObj.keyCode = intKeyCode = REMAP_KEY_T;
-        winObj.returnValue = false;
-        return false;
     }
     }
-}
 
-
-document.onkeydown = applyKey;
+    document.onkeydown = applyKey;
